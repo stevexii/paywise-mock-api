@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "model": "Toyota RAV4 GX",
+      "annual_net_cost": 18500,
+      "total_savings": 8200,
+      "image": "https://www.paywise.com.au/wp-content/uploads/2025/08/Toyota-RAV4.webp"
+    },
+    {
+      "model": "Tesla Model 3 RWD",
+      "annual_net_cost": 22500,
+      "total_savings": 9500,
+      "image": "https://www.paywise.com.au/wp-content/uploads/2025/08/Tesla-Model-3.webp"
+    },
+    {
+      "model": "Hyundai Kona Electric",
+      "annual_net_cost": 20100,
+      "total_savings": 8900,
+      "image": "https://www.paywise.com.au/wp-content/uploads/2025/08/Hyundai-Kona.webp"
+    }
+  ]
+}
