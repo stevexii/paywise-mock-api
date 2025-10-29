@@ -1,22 +1,22 @@
 {
   "cars": [
     {
-      "model": "Toyota RAV4 GX",
-      "annual_net_cost": 18500,
-      "total_savings": 8200,
-      "image": "https://www.paywise.com.au/wp-content/uploads/2025/08/Toyota-RAV4.webp"
+      "model": "Tesla Model 3",
+      "annual_net_cost": 52000,
+      "total_savings": "$18,400",
+      "image": "https://www.paywise.com.au/wp-content/uploads/2025/09/tesla-model-3.png"
     },
     {
-      "model": "Tesla Model 3 RWD",
-      "annual_net_cost": 22500,
-      "total_savings": 9500,
-      "image": "https://www.paywise.com.au/wp-content/uploads/2025/08/Tesla-Model-3.webp"
+      "model": "Hyundai Ioniq 5",
+      "annual_net_cost": 48000,
+      "total_savings": "$15,200",
+      "image": "https://www.paywise.com.au/wp-content/uploads/2025/09/ioniq-5.png"
     },
     {
-      "model": "Hyundai Kona Electric",
-      "annual_net_cost": 20100,
-      "total_savings": 8900,
-      "image": "https://www.paywise.com.au/wp-content/uploads/2025/08/Hyundai-Kona.webp"
+      "model": "Kia EV6",
+      "annual_net_cost": 46000,
+      "total_savings": "$14,700",
+      "image": "https://www.paywise.com.au/wp-content/uploads/2025/09/kia-ev6.png"
     }
   ]
 }
